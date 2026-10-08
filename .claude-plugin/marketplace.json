@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "parley",
+  "description": "Parley for Claude Code: your legal team's casework, without switching apps.",
+  "owner": {
+    "name": "Parley",
+    "email": "founders@parley.so",
+    "url": "https://www.parley.so"
+  },
+  "plugins": [
+    {
+      "name": "parley",
+      "source": "./",
+      "description": "Bring Parley into the conversation. Find and update your Projects, Accounts, Contacts, and Tasks, read case files, write notes, and run Automations.",
+      "category": "productivity"
+    }
+  ]
+}

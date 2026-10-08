@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "parley",
+  "displayName": "Parley",
+  "version": "1.0.0",
+  "description": "Bring Parley into the conversation. Find and update your Projects, Accounts, Contacts, and Tasks, read case files, write notes, and run Automations.",
+  "author": {
+    "name": "Parley",
+    "email": "founders@parley.so",
+    "url": "https://www.parley.so"
+  },
+  "homepage": "https://www.parley.so",
+  "repository": "https://github.com/parley-dev/parley-plugin",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law firm",
+    "case management",
+    "matters",
+    "clients",
+    "tasks"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://docs.parley.so/ai-assistants/claude-and-chatgpt",
+  "supportUrl": "https://docs.parley.so/help/getting-support",
+  "privacyPolicyUrl": "https://www.parley.so/privacy-policy",
+  "termsOfServiceUrl": "https://www.parley.so/terms-of-service"
+}
