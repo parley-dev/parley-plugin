@@ -21,8 +21,8 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Parley",
-    "shortDescription": "Your legal team's casework",
-    "longDescription": "Parley is where your legal team's casework happens. Connect it to bring your firm's Projects, Accounts, Contacts, and Tasks into the conversation, so you can check on a case and act on it without switching apps.\n\nWith Parley you can:\n- Find any Project, Account, or Contact by name or email, and see how they're connected\n- See what's due, update a Task, or add a new one\n- Read the files on a Project, including scanned documents\n- Write notes and update existing ones\n- Catch up on recent activity on a Project, Account, or Contact\n- Manage your firm's fields, Skills, and Automations\n\nParley works as you: it only sees the Projects you can see in Parley. To connect, you need a Parley account. Ask an Owner or Admin at your firm to invite you at app.parley.so.\n\nAdding new files from a conversation works in Codex, but not yet in ChatGPT.",
+    "shortDescription": "The Legal Agent that works",
+    "longDescription": "Parley is where your legal team's casework happens. Connecting to Parley brings your firm's Projects, Accounts, Contacts, and Tasks into the conversation, so you can act on it without switching apps.\n\nWith Parley you can:\n- Find any Project, Account, or Contact. Your records in context, so you can check their status or query their information.\n- Read the files on a Project, including scanned documents, and pull them into your work.\n- Manage your firm's fields, Skills, and Automations, so you can use your firm's knowledge.\n- See what deadlines are due, update a Task, or assign a new one within your team.\n- Write notes or update existing ones on any of your records, so you can maintain your activity log.\n\nParley only sees the materials you can see in Parley. To connect, you need a Parley account. Ask an Owner or Admin at your firm to invite you, or learn more at www.parley.so.\n\nAdding new files from a conversation works in Codex, but not yet in ChatGPT.",
     "developerName": "Parley",
     "category": "Business & Operations",
     "capabilities": [
@@ -98,6 +98,7 @@
             }
           ]
         },
+        "demo_recording_url": "https://youtu.be/AkAMqRXYCww",
         "commerce": false,
         "commerce_description": "Parley doesn't sell anything or take payments in ChatGPT or Codex."
       },
