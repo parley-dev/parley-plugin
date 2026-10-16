@@ -15,7 +15,7 @@ Parley works as you. It only sees the Projects you can see in Parley, and it ask
 
 ## Get started
 
-You need a Parley account. Ask an Owner or Admin at your firm to invite you at [app.parley.so](https://app.parley.so).
+New to Parley? Select **Connect** and sign up with your work email. You'll set up your firm's workspace and start a free trial, then go straight back to your assistant. If your firm already uses Parley, sign in with your Parley account.
 
 **Claude**: find Parley in the connector directory and select **Connect**.
 
