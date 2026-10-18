@@ -1,6 +1,6 @@
 {
   "name": "parley",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Bring Parley into the conversation. Find and update your Projects, Accounts, Contacts, and Tasks, read case files, write notes, and run Automations.",
   "author": {
     "name": "Parley",
@@ -22,7 +22,7 @@
   "interface": {
     "displayName": "Parley",
     "shortDescription": "The Legal Agent that works",
-    "longDescription": "Parley is where your legal team's casework happens. Connecting to Parley brings your firm's Projects, Accounts, Contacts, and Tasks into the conversation, so you can act on it without switching apps.\n\nWith Parley you can:\n- Find any Project, Account, or Contact. Your records in context, so you can check their status or query their information.\n- Read the files on a Project, including scanned documents, and pull them into your work.\n- Manage your firm's fields, Skills, and Automations, so you can use your firm's knowledge.\n- See what deadlines are due, update a Task, or assign a new one within your team.\n- Write notes or update existing ones on any of your records, so you can maintain your activity log.\n\nParley only sees the materials you can see in Parley. To connect, you need a Parley account. Ask an Owner or Admin at your firm to invite you, or learn more at www.parley.so.\n\nAdding new files from a conversation works in Codex, but not yet in ChatGPT.",
+    "longDescription": "Parley is where your legal team's casework happens. Connecting to Parley brings your firm's Projects, Accounts, Contacts, and Tasks into the conversation, so you can act on it without switching apps.\n\nWith Parley you can:\n- Find any Project, Account, or Contact. Your records in context, so you can check their status or query their information.\n- Read the files on a Project, including scanned documents, and pull them into your work.\n- Manage your firm's fields, Skills, and Automations, so you can use your firm's knowledge.\n- See what deadlines are due, update a Task, or assign a new one within your team.\n- Write notes or update existing ones on any of your records, so you can maintain your activity log.\n\nParley only sees the materials you can see in Parley. To connect, sign in with your Parley account. New to Parley? Sign up with your work email and set up your firm's workspace, then go straight back to your conversation.\n\nAdding new files from a conversation works in Codex, but not yet in ChatGPT.",
     "developerName": "Parley",
     "category": "Business & Operations",
     "capabilities": [
@@ -38,9 +38,9 @@
     "privacyPolicyURL": "https://www.parley.so/privacy-policy",
     "termsOfServiceURL": "https://www.parley.so/terms-of-service",
     "defaultPrompt": [
-      "What's due this week across my projects?",
-      "Catch me up on what's happened on my newest project.",
-      "Find a contact and show me the projects they're on."
+      "Draft a client update for my most recent project, based on its latest emails and open tasks.",
+      "Which deadlines are coming up in the next two weeks, and which ones don't have anyone assigned yet?",
+      "Review the newest files on my most recent project, summarize the key points, and save them as a note."
     ],
     "brandColor": "#0D402B",
     "brandColorDark": "#C1E0C9",
@@ -103,7 +103,7 @@
         "commerce_description": "Parley doesn't sell anything or take payments in ChatGPT or Codex."
       },
       "publication": {
-        "release_notes": "First release: find and update Projects, Accounts, Contacts, and Tasks; read case files; write notes; catch up on activity; and manage fields, Skills, and Automations."
+        "release_notes": "Firms new to Parley can now sign up and set up their workspace while connecting, then go straight back to ChatGPT. Connections now renew automatically, so you stay signed in."
       }
     }
   }

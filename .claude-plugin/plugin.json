@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "parley",
   "displayName": "Parley",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Bring Parley into the conversation. Find and update your Projects, Accounts, Contacts, and Tasks, read case files, write notes, and run Automations.",
   "author": {
     "name": "Parley",
